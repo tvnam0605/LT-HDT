@@ -1,0 +1,15 @@
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\bin\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.exe
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\bin\Debug\netcoreapp3.1\dulieu.csv
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\bin\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.deps.json
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\bin\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.runtimeconfig.json
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\bin\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.runtimeconfig.dev.json
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\bin\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.dll
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\bin\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.pdb
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\obj\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.csproj.AssemblyReference.cache
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\obj\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.GeneratedMSBuildEditorConfig.editorconfig
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\obj\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.AssemblyInfoInputs.cache
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\obj\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.AssemblyInfo.cs
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\obj\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.csproj.CoreCompileInputs.cache
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\obj\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.dll
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\obj\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.pdb
+F:\2115239_QuanLyMayTinh_V2\2115239_QuanLyMayTinh_V2\obj\Debug\netcoreapp3.1\2115239_QuanLyMayTinh_V2.genruntimeconfig.cache
