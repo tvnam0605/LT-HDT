@@ -1,2 +1,2 @@
-# CTDL-TG
-Học phần cấu trúc dữ liệu và giải thuật
+# Lập trình hướng đối tượng
+Các bài lab môn Lập trình hướng đối tượng
